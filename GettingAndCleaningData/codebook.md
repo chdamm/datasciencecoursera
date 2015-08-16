@@ -19,7 +19,7 @@ The activity, which can be one of the following:
 
 tBodyAcc.mean...X
 -----------------
-The average of the measured tBodyAcc-mean()-X value, for the given subject in the given activity.
+The average of the measured tBodyAcc-mean()-X value, for the given subject in the given activity.  
 The variable name contains . instead of -() for technical reasons (R column name restrictions).
 
 Remaining variables
