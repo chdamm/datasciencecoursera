@@ -112,4 +112,4 @@ These are the remaining variables:
 * fBodyAccMag.std..
 * fBodyBodyAccJerkMag.std..
 * fBodyBodyGyroMag.std..
-* fBodyBodyGyroJerkMag.std.."
+* fBodyBodyGyroJerkMag.std..
